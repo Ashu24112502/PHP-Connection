@@ -9,7 +9,7 @@ Entry data in sign in page
 ![Screenshot 2024-11-14 121421](https://github.com/user-attachments/assets/2f3dcf83-93a1-46d2-8ff5-2811cb722d67)
 Data automatically mentioned in mysql which was connected with e-book
 ![Screenshot 2024-11-14 121443](https://github.com/user-attachments/assets/0c0299cc-e28a-4f47-8f72-9f5559ab45eb)
-Credits 
-Bijesh sir
-codeapen
-bootstrap
+Credits - 
+Bijesh sir,
+codeapen,
+bootstrap.
