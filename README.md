@@ -10,6 +10,6 @@ Entry data in sign in page
 Data automatically mentioned in mysql which was connected with e-book
 ![Screenshot 2024-11-14 121443](https://github.com/user-attachments/assets/0c0299cc-e28a-4f47-8f72-9f5559ab45eb)
 Credits - 
-Bijesh sir,
+Bijesh sir //
 codeapen,
 bootstrap.
